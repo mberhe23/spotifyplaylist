@@ -1,0 +1,32 @@
+@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+@import url("https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap");
+body {
+  font-family: "Poiret One", cursive;
+  background: linear-gradient(to right, #9cc9df, #aaec30);
+}
+
+#page-title {
+  text-align: center;
+  font-family: "Permanent Marker";
+}
+table {
+  margin: auto;
+  font-size: 20px;
+}
+
+th {
+  text-align: left;
+  padding: 15px;
+}
+
+td {
+  padding: 15px;
+}
+
+table,
+th,
+td {
+  border: 1px solid #fff;
+  border-collapse: collapse;
+  color: white;
+}

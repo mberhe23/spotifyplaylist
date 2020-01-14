@@ -1,2 +1,0 @@
-# spotifyplaylist
-Created with CodeSandbox
